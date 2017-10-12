@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://raw.githubusercontent.com/andriy-gnennyy-gl/mesos-ci-cd/master/scripts/azure/node-start/custom-script-agent-public.sh"
+  ],
+  "commandToExecute": "bash custom-script-agent-public.sh"
+}
