@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://raw.githubusercontent.com/andriy-gnennyy-gl/mesos-ci-cd/master/scripts/azure/node-start/custom-script-master.sh"
+  ],
+  "commandToExecute": "bash custom-script-master.sh"
+}
